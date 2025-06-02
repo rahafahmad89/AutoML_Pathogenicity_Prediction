@@ -32,8 +32,8 @@ This project benchmarks breast cancer and pan-cancer variant datasets to identif
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/breast-cancer-variant-automl.git
-cd breast-cancer-variant-automl
+git clone https://github.com/yourusername/AutoML_Pathogenicity_Prediction.git
+cd AutoML_Pathogenicity_Prediction
 ```
 
 ### 2. Install dependencies
@@ -43,10 +43,10 @@ pip install -r requirements.txt
 
 ### 3. Add your datasets
 Place your CSV files in the `datasets/` folder:
-- `Balanced_BC_HGMD.csv`
-- `Balanced_BC_Alldatabases.csv`
-- `Balanced_Allcancer_HGMD.csv`
-- `Balanced_Allcancer_Alldatabases.csv`
+- `Dataset-1.csv`
+- `Dataset-2.csv`
+- `Dataset-3.csv`
+- `Dataset-4.csv`
 
 ### 4. Run Phase 1: Find best seed for each dataset
 ```bash
@@ -114,14 +114,14 @@ Each model is explained using:
 
 ## 📚 Citation
 
-If you use this repository, please cite using `CITATION.cff` or:
+If you use this repository, please cite as:
 
 ```bibtex
 @misc{ahmad2025automl,
-  author = {Rahaf Ahmad},
-  title = {AutoML-Driven Pathogenicity Prediction of Breast Cancer Variants},
+  author = {Rahaf M. Ahmad},
+  title = {Leveraging AutoML to Optimize Dataset Selection for Improved Breast Cancer Variant Pathogenicity Prediction},
   year = {2025},
-  howpublished = {\\url{https://github.com/yourusername/breast-cancer-variant-automl}},
+  howpublished = {\\url{https://github.com/rahafahmad89/AutoML_Pathogenicity_Prediction}},
   note = {MIT License}
 }
 ```
@@ -136,17 +136,17 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## 👩‍💻 Author
 
-**Rahaf Ahmad**  
+**Rahaf M. Ahmad**  
 Ph.D. Candidate | Genetics & Machine Learning  
 United Arab Emirates University  
-ORCID: [0000-0002-0000-0000](https://orcid.org/0000-0002-0000-0000)
+ORCID: [0000-0002-7531-5264](https://orcid.org/0000-0002-7531-5264)
 
 ---
 
 ## 🤝 Acknowledgements
 
 - Inspired by the need for robust and interpretable predictions in precision oncology.
-- Developed using open-source AutoML frameworks.
+- Developed using open-source AutoML frameworks and Colab Pro.
 
 ---
 
