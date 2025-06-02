@@ -1,4 +1,4 @@
-# 🔬 AutoML-Driven Pathogenicity Prediction for Breast Cancer Variants
+# 🔬 Leveraging AutoML to Optimize Dataset Selection for Improved Breast Cancer Variant Pathogenicity Prediction
 
 This project benchmarks breast cancer and pan-cancer variant datasets to identify the most effective data composition and AutoML framework for predicting variant pathogenicity. Using **TPOT**, **H2O AutoML**, and **MLJAR-supervised**, the pipeline performs:
 
