@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+h2o
+scikit-learn
+mljar-supervised
+tpot
+seaborn
+shap
+lime
+joblib
