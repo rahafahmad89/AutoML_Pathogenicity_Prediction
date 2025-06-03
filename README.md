@@ -121,7 +121,7 @@ If you use this repository, please cite as (will be updated once published):
   authors = {Rahaf M. Ahmad, Mohd Saberi Mohamad, Bassam R. Ali*},
   title = {Leveraging AutoML to Optimize Dataset Selection for Improved Breast Cancer Variant Pathogenicity Prediction},
   year = {2025},
-  howpublished = {\\url{https://github.com/rahafahmad89/AutoML_Pathogenicity_Prediction}},
+  Link to GiHub repository annd publication doi = {\\url{https://github.com/rahafahmad89/AutoML_Pathogenicity_Prediction}},
   note = {MIT License}
 }
 ```
@@ -151,7 +151,6 @@ ORCID: [0000-0002-7531-5264](https://orcid.org/0000-0002-7531-5264)
 ---
 
 ## 🧠 Future Work
-
-- Integrate with external variant databases via API  
+ 
 - Web-based clinical decision tool  
 - Real-time explainability dashboards
