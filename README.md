@@ -117,8 +117,8 @@ Each model is explained using:
 If you use this repository, please cite as (will be updated once published):
 
 ```bibtex
-@misc{ahmad2025automl,
-  author = {Rahaf M. Ahmad},
+
+  authors = {Rahaf M. Ahmad, Mohd Saberi Mohamad, Bassam R. Ali*},
   title = {Leveraging AutoML to Optimize Dataset Selection for Improved Breast Cancer Variant Pathogenicity Prediction},
   year = {2025},
   howpublished = {\\url{https://github.com/rahafahmad89/AutoML_Pathogenicity_Prediction}},
