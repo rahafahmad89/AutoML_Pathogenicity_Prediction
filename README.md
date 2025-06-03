@@ -42,7 +42,7 @@ pip install -r requirements.txt
 ```
 
 ### 3. Add your datasets
-Place your CSV files in the `datasets/` folder:
+Place your CSV files in the `datasets/` folder (Dataset-1 sample is provided as a guide for data structure and for testing the workflow only):
 - `Dataset-1.csv`
 - `Dataset-2.csv`
 - `Dataset-3.csv`
@@ -114,7 +114,7 @@ Each model is explained using:
 
 ## 📚 Citation
 
-If you use this repository, please cite as:
+If you use this repository, please cite as (will be updated once published):
 
 ```bibtex
 @misc{ahmad2025automl,
